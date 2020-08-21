@@ -1,0 +1,31 @@
+{
+  "application_name": "r18漫",
+  "domain": "r18man.com",
+  "latin_application_name": "r18man",
+  "cn_tmp_hosts": [
+    "r18man02.xyz"
+  ],
+  "backup_hosts": [
+  ],
+  "use_self_ads": true,
+  "histats_counter_id": 4080997,
+  "histats_counter_redirect_id": 4162931,
+  "cloudflare_api": {
+    "email": "xiaoyaoge@protonmail.com",
+    "token": "4183d43dc3b90bb2b2690ab320d3fe4453e46"
+  },
+  "nginx": "openresty",
+  "use_https": true,
+  "telegram": {
+    "bot_token": "747674327:AAGY9SXDLhCIydQCVeccYYfMz3K2foUxabA"
+  },
+  "namesilo": {
+    "api_key": "957cc3b62a635f123bc1ff57"
+  },
+  "dh": {
+    "name": "逍遥阁",
+    "description": "成人色站，在线视频",
+    "logo": "/static/app/app.png"
+  },
+  "type": "xx"
+}
